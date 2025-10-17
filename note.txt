@@ -1,0 +1,10 @@
+the first command you must use is: "pip install openai"
+after that use:"pip install --upgrade openai"
+after that use "pip install fastapi uvicorn openai mysql-connector-python"
+aftere that use "pip install requests"
+
+
+ to launch the server uvicorn; open the terminal and paste:"python -m uvicorn main:app --reload "
+
+ the last thing is to know my database is mysql and i call him chatdb so u should focus on that point
+
